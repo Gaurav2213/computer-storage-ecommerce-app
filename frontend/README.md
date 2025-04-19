@@ -72,6 +72,22 @@ Lambton College | Winter 2025
 # 📸 Screenshots
 
 Registartion Page:
-![alt text][registration Page]
+![Registrartion Page](image-1.png)
 
-[registration Page]: image.png
+Login Page:
+![Login Page](image-2.png)
+
+Home Page:
+![Home Page](image-3.png)
+
+Admin DashBoard:
+![Admin product Management ](image-4.png);
+
+User Management:
+![Admin user Management](image-5.png)
+
+Product Page:
+![Product Page](image-6.png)
+
+Cart Page:
+![cart Page](image-7.png)
