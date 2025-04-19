@@ -75,19 +75,18 @@ Registartion Page:
 ![Registrartion Page](image-1.png)
 
 Login Page:
-![Login Page](image-2.png)
+![Login Page](./ScreenShot/Login.png)
 
 Home Page:
-![Home Page](image-3.png)
+![Home Page](./ScreenShot/HomePage.png)
 
 Admin DashBoard:
-![Admin product Management ](image-4.png);
+![Admin product Management ](./ScreenShot/AdminProductManag.png);
 
 User Management:
-![Admin user Management](image-5.png)
+![Admin user Management](./ScreenShot/AdminUserManag.png)
 
 Product Page:
-![Product Page](image-6.png)
+![Product Page](./ScreenShot/productDetails.png)
 
-Cart Page:
-![cart Page](image-7.png)
+
