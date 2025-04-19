@@ -1,0 +1,30 @@
+.edit-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    color: #343a40;
+    text-align: center;
+    border-bottom: 2px solid #dee2e6;
+    padding-bottom: 0.5rem;
+  }
+  
+  .edit-form {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .edit-form input,
+  .edit-form textarea {
+    border-radius: 6px;
+    padding: 0.65rem;
+  }
+  
+  .edit-form input:focus,
+  .edit-form textarea:focus {
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+    border-color: #80bdff;
+  }
+  

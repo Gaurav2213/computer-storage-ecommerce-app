@@ -1,0 +1,39 @@
+.payment-title {
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    color: #343a40;
+    border-bottom: 2px solid #dee2e6;
+    padding-bottom: 0.5rem;
+    text-align: center;
+  }
+  
+  .payment-form {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  .radio-group {
+    margin-top: 1rem;
+  }
+  
+  .radio-option {
+    margin-bottom: 0.75rem;
+    padding: 0.5rem;
+    background-color: #f8f9fa;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+  }
+  
+  .radio-option input[type='radio'] {
+    margin-right: 0.75rem;
+  }
+  
+  .form-label {
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+  

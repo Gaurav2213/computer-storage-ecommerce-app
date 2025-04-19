@@ -1,0 +1,68 @@
+.productlist-title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 2px solid #dee2e6;
+  padding-bottom: 0.5rem;
+  color: #343a40;
+}
+
+/* Create button */
+.btn-create {
+  background-color: #000;
+  color: #fff;
+  font-weight: 500;
+  padding: 0.5rem 1.25rem;
+  border-radius: 8px;
+  border: none;
+}
+
+.btn-create:hover {
+  background-color: #212529;
+}
+
+/* Table container */
+.product-table-wrapper {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* Table cells */
+.product-table th,
+.product-table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Button styling */
+.btn-edit {
+  border: 1px solid #ccc;
+  color: #343a40;
+  background-color: #f8f9fa;
+}
+
+.btn-edit:hover {
+  background-color: #e2e6ea;
+}
+
+/* Delete button */
+.btn-delete {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
+
+.btn-delete:hover {
+  background-color: #bb2d3b;
+  border-color: #b02a37;
+}
+
+/* ✅ Flex layout for edit/delete buttons */
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}

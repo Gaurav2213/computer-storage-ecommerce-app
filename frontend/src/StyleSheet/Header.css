@@ -1,0 +1,43 @@
+.main-navbar {
+  background-color: #212529 !important;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  font-weight: 500;
+}
+
+.brand-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  flex-wrap: nowrap;
+}
+
+.navbar-search {
+  flex: 1;
+  max-width: 450px;
+  margin-left: 1rem;
+  margin-right: auto;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.nav-link-custom {
+  color: #f8f9fa !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-link-custom:hover {
+  color: #adb5bd !important;
+}
