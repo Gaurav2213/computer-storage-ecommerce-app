@@ -71,10 +71,10 @@ Lambton College | Winter 2025
 
 # 📸 Screenshots
 
-Registartion Page:
-![Registrartion Page](image-1.png)
+
 
 Login Page:
+
 ![Login Page](./ScreenShot/Login.png)
 
 Home Page:
